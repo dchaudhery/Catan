@@ -1,4 +1,4 @@
-# Catan
+# Settlers of Catan
 Settlers of Catan or Catan is a multiplayer board game where players aim to build property from the resources they collect.
 
 This game is implemented in C++ and the players use the terminal to play the game
