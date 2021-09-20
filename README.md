@@ -3,7 +3,7 @@ Settlers of Catan or Catan is a multiplayer board game where players aim to buil
 
 This game is implemented in C++ and the players use the terminal to play the game
 
-Since this game is a part of my coursework, the code is not public. However, please send me an email at dchaudhe@uwaterloo.ca for access to the following: 
+Since this game is a part of my coursework, the code is not public. However, please send me an email at dchaudhery@uwaterloo.ca for access to the following: 
 
 - Header (.h) files
 - Implementation (.cc) files
