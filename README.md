@@ -1,7 +1,7 @@
 # Settlers of Catan
 Settlers of Catan or Catan is a multiplayer board game where players aim to build property from the resources they collect. This game is implemented in C++ and adeptly uses OOP and design patterns. Due to course policy, the code is not public but please send me an email at dchaudhery@uwaterloo.ca for access to the code and UML diagram. 
 
-The game uses several classes to play including: the Board, BoardTiles, Player, Dice (and its two variants - random and fair), as well as controller functionality and ability to load a previously saved game. 
+The game uses several classes to play including: the Board, Tiles, Player, Dice (and its two variants - random and fair), as well as controller functionality and ability to load a previously saved game. 
 
 Here's the implemented board layout:
 
